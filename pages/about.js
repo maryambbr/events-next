@@ -1,10 +1,12 @@
 import Link from 'next/link';
+import Layout from '../components/Layout';
 
 function About() {
-  return;
-  <div style={styles.container}>
-    <Link href="/home">go to home page</Link>
-  </div>;
+  return (
+    <Layout title="About Evenyts">
+      <Link href="/">go to home page</Link>
+    </Layout>
+  );
 }
 
 export default About;

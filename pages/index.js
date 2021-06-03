@@ -1,11 +1,12 @@
-import Link from 'next/link';
-import styles from '../styles/Home.module.css';
+import Layout from '../components/Layout';
+import styles from '../styles/Layout.module.css';
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-      <h1>Home</h1>
-      <Link href="/about">About Page</Link>
-    </div>
+    <Layout>
+      <div className={styles.container}>
+        <h1>Home</h1>
+      </div>
+    </Layout>
   );
 }
