@@ -1,0 +1,76 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Throwback Thursday With DJ Manny duck",
+      "slug": "manny-duck",
+      "venue": "Horizon Club",
+      "address": "khiaban felan pelak filan",
+      "performance": "Dj Manny Duck",
+      "date": "June 09,2021",
+      "time": "10:00 PM EST",
+      "description": "Featuring deep cuts",
+      "image": "/images/sample/event1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Throwback Thursday With DJ Manny duck",
+      "slug": "duck",
+      "venue": "Horizon Club",
+      "address": "khiaban felan pelak filan",
+      "performance": "Dj Manny Duck",
+      "date": "June 09,2022",
+      "time": "20:00 PM EST",
+      "description": "Featuring deep cuts",
+      "image": "/images/sample/event2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Throwback Thursday With DJ Manny duck",
+      "slug": "manny",
+      "venue": "Horizon Club",
+      "address": "khiaban felan pelak filan",
+      "performance": "Dj Manny Duck",
+      "date": "June 09,2023",
+      "time": "30:00 PM EST",
+      "description": "Featuring deep cuts",
+      "image": "/images/sample/event3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Throwback Thursday With DJ Manny duck",
+      "slug": "man",
+      "venue": "Horizon Club",
+      "address": "khiaban felan pelak filan",
+      "performance": "Dj Manny Duck",
+      "date": "June 09,2024",
+      "time": "40:00 PM EST",
+      "description": "Featuring deep cuts",
+      "image": "/images/sample/event4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Throwback Thursday With DJ Manny duck",
+      "slug": "ducky",
+      "venue": "Horizon Club",
+      "address": "khiaban felan pelak filan",
+      "performance": "Dj Manny Duck",
+      "date": "June 09,2025",
+      "time": "50:00 PM EST",
+      "description": "Featuring deep cuts",
+      "image": "/images/sample/event5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Throwback Thursday With DJ Manny duck",
+      "slug": "danny",
+      "venue": "Horizon Club",
+      "address": "khiaban felan pelak filan",
+      "performance": "Dj Manny Duck",
+      "date": "June 09,2026",
+      "time": "60:00 PM EST",
+      "description": "Featuring deep cuts",
+      "image": "/images/sample/event6.jpg"
+    }
+  ]
+}
